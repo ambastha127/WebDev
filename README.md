@@ -1,1 +1,1 @@
-Created a basic structured website using tailwind CSS.
+Created a basic structured page using tailwind CSS.
